@@ -1,0 +1,19 @@
+{
+  "name": "roso-socials-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that posts to a socials-feed channel when your org goes live or posts on Twitch/YouTube/(optional IG/X/TikTok).",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "NODE_ENV=development node src/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "rss-parser": "^3.13.0"
+  }
+}

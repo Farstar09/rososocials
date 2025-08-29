@@ -1,0 +1,18 @@
+{
+  "twitch": {
+    "lastLive": false,
+    "lastStreamId": null
+  },
+  "youtube": {
+    "lastVideoId": null
+  },
+  "instagram": {
+    "lastMediaId": null
+  },
+  "x": {
+    "lastTweetId": null
+  },
+  "tiktok": {
+    "lastItemId": null
+  }
+}
